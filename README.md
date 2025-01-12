@@ -1,5 +1,3 @@
-# sechaiz
-
 👋 Welcome to my GitHub profile! I’m Sergio Echaiz Gamboa.
 
 🌟 Technology is not just a tool for me; it’s a big part of my life and something I’m deeply passionate about.
@@ -18,6 +16,46 @@
 
 🔗 **You can find me here**:
 - [LinkedIn](https://www.linkedin.com/in/sergioechaiz)
-- [Google](https://www.youtube.com/@sergioechaiz))
+- [Google](https://www.youtube.com/@sergioechaiz)
 - [Twitch](https://www.twitch.tv/sergio_echaiz)
 - [X](https://www.twitter.com/sergio_echaiz)
+
+
+---
+
+## 🌐 Find me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergioechaiz)  
+[![Google](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@sergioechaiz)  
+[![Twitch](https://img.shields.io/badge/Twitch-Watch-purple?style=flat&logo=twitch)](https://www.twitch.tv/sergio_echaiz)  
+[![Twitter](https://img.shields.io/badge/X-Follow-black?style=flat&logo=twitter)](https://www.twitter.com/sergio_echaiz)  
+
+---
+
+## 🚀 My Interests Include:
+🎯 Network Programmability and Automation  
+🤖 Artificial Intelligence (AI) and Machine Learning  
+🌐 IoT and Advanced Networking  
+🔐 Cybersecurity and Ethical Hacking  
+
+---
+
+## 🔄 Animations and Highlights:
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Automation" width="200"/>
+  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="IoT" width="200"/>
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="AI" width="200"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cybersecurity" width="200"/>
+</div>
+
+---
+
+💡 **"Knowledge grows when it is shared."** On this profile, you'll find projects, tools, and ideas to make IT professionals' lives easier—whether it's for automation, innovation, or learning.  
+
+🛠️ **Featured Projects:**  
+- **[Network Automation](https://github.com/sergioechaiz/net-auto-project)**  
+- **[IoT Advanced Projects](https://github.com/sergioechaiz/iot-projects)**  
+- **[Cybersecurity Labs](https://github.com/sergioechaiz/cyber-sec-labs)**  
+
+🌱 I'm currently working on a personal webpage to showcase more technical content.  
+
+👨‍💻 Explore, comment, and feel free to share your ideas! 😊
