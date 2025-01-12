@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me
 
-🌟 Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about.
-💡 I strongly believe that knowledge grows when shared.
-🚀 Here, you’ll find a variety of projects: some that I’m actively developing, collaborations I’ve initiated, and others where I’m learning and watching.
+🌟 Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about. 
+💡 I strongly believe that knowledge grows when shared. 
+🚀 Here, you’ll find a variety of projects: some that I’m actively developing, collaborations I’ve initiated, and others where I’m learning and watching. 
 
 ## 🌐 Interesting Areas
 
