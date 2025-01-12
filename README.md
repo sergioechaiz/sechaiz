@@ -6,23 +6,24 @@
 ---
 
 ## 🧑‍💻 About Me
-🌟 Technology is not just a tool for me; it’s a big part of my life and something I’m deeply passionate about.
-🚀 In my repositories, you’ll find projects I’m working on, collaborations I’ve started, and even some where I’m just observing. This is a space for sharing and contributing to the IT community, one small step at a time.
-💡 I believe knowledge grows when it’s shared, and this is my way of giving back to the community. Whether it’s about Network Programmability & Automation, Cybersecurity, Open Source projects, or Linux, I’m always open to exploring new ideas and working together.
+🌟 Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about.  
+🚀 In my repositories, you’ll find projects I’m actively working on, collaborations I’ve started, and even some where I’m just observing. This is a space for sharing and contributing to the IT community, one step at a time.  
+💡 I strongly believe that knowledge grows when shared. This profile is my way of giving back to the community. Whether it’s Network Programmability & Automation, Cybersecurity, Open Source projects, or Linux, I’m always eager to explore new ideas and work together.
 
 ---
 
-## 🌐 **Interesting Areas**
+## 🌐 Interesting Areas
 - **🚀 Advanced Networking and Network Programmability & Automation**  
-- **🔐 Cybersecurity & Ethical Hacking**
+- **🔐 Cybersecurity & Ethical Hacking**  
 - **🤖 Artificial Intelligence (AI)**  
-- **🌐 Internet of Things (IoT)**
+- **🌐 Internet of Things (IoT)**  
 
 ---
 
-☕ My aim is to make life easier for IT professionals, so we can enjoy more coffee breaks and achieve more. If you have any ideas or projects, let’s connect and build something great together. 
+## 🎯 Have Fun
+☕ My goal is to make life easier for IT professionals and enthusiasts, giving us more time to enjoy coffee breaks and achieve more! If you have ideas or projects, let’s connect and create something amazing together.  
 
-✨ Let’s create, innovate, and make a difference in our community! 👨‍💻 Explore, comment, and feel free to share your ideas! 😊
+✨ Let’s innovate, collaborate, and make a difference in our community! 👨‍💻 Feel free to explore, comment, and share your ideas. 😊
 
 ---
 
@@ -47,26 +48,13 @@
   </p>
 </div>
 
-🌐 **You can find me here**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergioechaiz)  
-[![Google](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@sergioechaiz)  
-[![Twitch](https://img.shields.io/badge/Twitch-Watch-purple?style=flat&logo=twitch)](https://www.twitch.tv/sergio_echaiz)  
-[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=twitter)](https://www.twitter.com/sergio_echaiz)  
-
 <div align="left">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+  <h2>🎨 Currently Working On</h2>
+  <p>
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Automation">
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Cybersecurity">
+  </p>
+  <p>
+    <b>I'm building a personal webpage to showcase more technical content, stay tuned!</b>
+  </p>
 </div>
-
-
----
-
-🌱 I'm currently working on a personal webpage to showcase more technical content.  
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Automation" width="200"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cybersecurity" width="200"/>
-</div>
-
