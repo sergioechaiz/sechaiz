@@ -1,28 +1,30 @@
 <h1 align="center">Hi, Welcome to my GitHub profile! I’m Sergio Echaiz👋</h1>
 <p align="center">
-  <b>🌟 Technology Enthusiast | 🚀 Network Automation | 🔐 Cybersecurity | 🤖 AI & IoT</b>
+  <b>🌟 Technology Enthusiast | 🚀 Network Automation & Automation | 🔐 Cybersecurity | 🤖 AI & IoT</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
+
 🌟 Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about.  
-🚀 In my repositories, you’ll find projects I’m actively working on, collaborations I’ve started, and even some where I’m just observing. This is a space for sharing and contributing to the IT community, one step at a time.  
-💡 I strongly believe that knowledge grows when shared. This profile is my way of giving back to the community. Whether it’s Network Programmability & Automation, Cybersecurity, Open Source projects, or Linux, I’m always eager to explore new ideas and work together.
+💡 I strongly believe that knowledge grows when shared. 
+🚀 Here, you’ll find a variety of projects: some that I’m actively developing, collaborations I’ve initiated, and others where I’m learning and watching.
 
 ---
 
 ## 🌐 Interesting Areas
-- **🚀 Advanced Networking and Network Programmability & Automation**  
-- **🔐 Cybersecurity & Ethical Hacking**  
+
+- **🚀 Network Programmability & Automation**
+- **🔐 Cybersecurity**  
 - **🤖 Artificial Intelligence (AI)**  
 - **🌐 Internet of Things (IoT)**  
 
 ---
 
-## 🎯 Have Fun
-☕ My goal is to make life easier for IT professionals and enthusiasts, giving us more time to enjoy coffee breaks and achieve more! If you have ideas or projects, let’s connect and create something amazing together.  
+## 🎯 Let's Have Fun
 
+☕ My goal is to make life easier for IT professionals and enthusiasts, giving us more time to enjoy coffee breaks and achieve more! If you have ideas or projects, let’s connect and create something amazing together.  
 ✨ Let’s innovate, collaborate, and make a difference in our community! 👨‍💻 Feel free to explore, comment, and share your ideas. 😊
 
 ---
@@ -49,12 +51,13 @@
 </div>
 
 <div align="left">
-  <h2>🎨 Currently Working On</h2>
+  <h2></h2>
   <p>
     <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Automation">
     <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="Cybersecurity">
   </p>
-  <p>
-    <b>I'm building a personal webpage to showcase more technical content, stay tuned!</b>
-  </p>
 </div>
+
+---
+
+Note: 🚧 Working on my personal webpage to showcase more technical content, stay tuned! 🛠️
