@@ -10,10 +10,10 @@
 
 ## 🌐 Interesting Areas
 
-- **🚀 Network Automation & Programmability**
-- **🔐 Cybersecurity**  
-- **🤖 Artificial Intelligence (AI)**  
-- **🌐 Internet of Things (IoT)**  
+- 🚀 Network Automation & Programmability
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence (AI)
+- 🌐 Internet of Things (IoT)
 
 ## 🎯 Let's Have Fun
 
