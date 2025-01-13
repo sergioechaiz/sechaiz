@@ -5,15 +5,15 @@
 ## 🧑‍💻 About Me
 Technology is not just a tool for me; it’s a fundamental part of my life and something I’m deeply passionate about. I strongly believe that knowledge grows when shared, and I see this repository as a space for collaboration, learning, and growth. I enjoy exploring, sharing ideas, discovering new projects, and connecting with others to create something truly useful. I really appreciate your visit and look forward to connecting with you!
 
-## 🌐 Interesting Areas
+## 💡 Interesting Areas
 - 🚀 Network Automation & Programmability
 - 🔐 Cybersecurity
 - 🤖 Artificial Intelligence (AI)
-- 🌐 Internet of Things (IoT)
+- 🏭 Internet of Things (IoT)
 
 ## 🎯 Let's Have Fun
 ✨ Let’s innovate, collaborate, and make a difference!
-👨‍💻 Feel free to explore, comment, and share your ideas😊
+👨‍💻 Feel free to explore, comment, and share your ideas 😊
 
 <div align="left">
   <h2>🌐 Let's Connect!</h2>
